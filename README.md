@@ -88,7 +88,7 @@ Proyek ini dapat dikembangkan lebih lanjut menjadi:
 
 # 👨‍💻 Kontributor
 > Danang Hilal Kurniawan
-> Data Science Enthusiast | Supply Chain Analytics
+>> Data Science | Supply Chain Analytics
 
 
 
