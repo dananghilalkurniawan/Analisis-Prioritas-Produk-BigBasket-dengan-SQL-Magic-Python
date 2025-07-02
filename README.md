@@ -56,6 +56,7 @@
 ## ✅ Step 5: Analisis Brand, Kategori & Kuadran
 - Menghitung rata-rata skor prioritas per kategori dan brand
 - Membagi produk menjadi 4 kuadran berdasarkan kombinasi margin dan rating:
+- 
 | Kuadran | Ciri-ciri                | Strategi                     |
 | ------- | ------------------------ | ---------------------------- |
 | I       | High Rating, High Margin | Fokus promosi dan distribusi |
