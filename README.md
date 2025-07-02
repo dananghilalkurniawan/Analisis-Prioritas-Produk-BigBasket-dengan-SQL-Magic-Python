@@ -15,6 +15,9 @@
 
 ## 📂 Dataset
 
+- **Sumber Dataset:**  
+  [BigBasket Entire Product List – Kaggle](https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints/data)
+
 - **Nama File:** `BigBasket_Products.csv`
 - **Atribut Utama:**  
   `product`, `category`, `brand`, `sale_price`, `market_price`, `rating`, `description`, dll.
